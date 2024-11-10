@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu{@PSP25}
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Development{Backend}
+- 👀 I’m interested in Web Development, Computer Science, Tech.
+- 🌱 I’m currently learning Full Stack Development{Backend} and honing my core CSE skills.
 - 📫 How to reach me: LinkedIn--www.linkedin.com/in/priyanshusp
 
 
